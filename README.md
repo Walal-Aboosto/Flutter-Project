@@ -1,6 +1,3 @@
-# Fardawso Mohamed Mohamud
-# ID C119542
-
 A new Flutter project.
 
 ## Getting Started
